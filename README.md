@@ -1,4 +1,4 @@
-API URL:
+API URL: https://stage-55gi.onrender.com
 
 1. User Sign-Up
 
